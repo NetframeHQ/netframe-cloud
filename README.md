@@ -1,4 +1,4 @@
-# netframe-synchro-mobile
+# netframe-cloud
 
 Cet espace est dédié aux retours utilisateurs, bugs, et propositions d’évolution pour l’application mobile Netframe (synchronisation WebDAV multi-device).
 
